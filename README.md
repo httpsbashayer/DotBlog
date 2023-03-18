@@ -18,6 +18,6 @@ Team members:
 - JavaScript
 ### Installation
 Download the HTML and CSS files including the visuals folder.
-> **Note that you don't need to download "IS201 Web Page Assignment - Sec 41975.pdf" file.**
+> Note that you don't need to download **"IS201 Web Page Assignment - Sec 41975.pdf" file**.
 ### Program Execution
 Run the website on any IDLE such as Visual Studio Code.
