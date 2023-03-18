@@ -4,6 +4,7 @@ Dot is a blog that offers design services and helps local businesses stand out a
 For faster review please [click here](https://httpsbashayer.github.io/DotBlog).
 
 This was a collaborative assignment for Fundamentals & Ethics of Information Systems course (IS 201).
+
 Team members:
 1. Bashayir AlHassar
 2. Shaima AlRajhi
