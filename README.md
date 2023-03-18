@@ -1,7 +1,7 @@
 # Dot Blog
 ### Description
 Dot is a blog that offers design services and helps local businesses stand out among their competitors in the market by offering them exclusive visuals.
-For faster review please [click here](https://httpsbashayer.github.io/DotBlog/).
+For faster review on desktop devices please [click here](https://httpsbashayer.github.io/DotBlog/).
 
 This was a collaborative assignment for Fundamentals & Ethics of Information Systems course (IS 201).
 
