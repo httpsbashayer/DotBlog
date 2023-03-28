@@ -6,12 +6,12 @@ For faster review on desktop devices please [click here](https://httpsbashayer.g
 This was a collaborative assignment for Fundamentals & Ethics of Information Systems course (IS 201).
 
 Team members:
-1. Bashayir AlHassar
-2. Shaima AlRajhi
+1. [Bashayir AlHassar](https://github.com/httpsbashayer)
+2. [Shaima AlRajhi](https://github.com/Shaima4)
 3. Raneem AlHassoon
-4. Reema AlAmri
+4. [Reema AlAmri](https://github.com/Reemaalamri422)
 5. Rafeef AlBahkali
-6. Lujain AlMayouf
+6. [Lujain AlMayouf](https://github.com/Lujain-Almayouf)
 ### Programming Languages
 - HTML
 - CSS
